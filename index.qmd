@@ -1,7 +1,22 @@
 ---
-title: "soc490s"
+title: "Sociol 490S - Occupations and Status"
 ---
 
-This is a Quarto website.
+| Name                             | Email                                             | Office           | Drop-in Hours                      |
+|----------------------------------|---------------------------------------------------|------------------|------------------------------------|
+| Prof. Lynn Smith-Lovin (she/her) | [smithlov\@duke.edu](smithlov@duke.edu)           | Reuben-Cooke 339 |                                    |
+| Em Maloney (they/them)           | [em.k.maloney\@duke.edu](em.k.maloney@duke.edu)   | Reuben-Cooke 141 | Tuesday 1-2pm or schedule by email |
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Course Description
+
+This is a senior research seminar focusing on sociological research on occupations and status. We will spend the semester exploring this topic sociologically, beginning with the classical theorists' conceptualizations of status and then moving into current debates around how to measure occupational status. Finally, we will read research on how occupational status is influenced by sociological factors such as race, gender, and education, and examples of how occupational status 'plays out' on the job.
+
+As this is a senior research seminar, a large portion of this course and your grade will consist of an original research project you will design and implement over the course of the semester. The final paper for this course will be the product of this process: a full research analysis that could be submitted to an academic conference or publication. Coursework will include labs and assignments leading you through this process to ensure consistent progress throughout the semester.
+
+Throughout most of the semester, Wednesdays will follow a typical course format, with lectures and class activities. Fridays will be devoted generally towards a lab style, introducing you to R, Affect Control Theory, and leading you through the research process.
+
+Your grade will consist of three major parts:
+
+1.  Class participation (20%)
+2.  Labs and Assignments (40%)
+3.  Final Research paper (40%)
