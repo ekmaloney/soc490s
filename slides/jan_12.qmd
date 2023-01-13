@@ -8,6 +8,12 @@ execute:
   freeze: auto
 ---
 
+## Meet your Instructor(s)
+
+-   Prof Smith-Lovin
+
+-   Em Maloney
+
 ## Introductions
 
 -   Name
@@ -26,6 +32,40 @@ execute:
 
 -   Course website: <https://ekmaloney.github.io/soc490s/>
 
+-   **All** readings, labs, and assignments are located here!
+
+-   Bookmark it!
+
+## Course Objectives
+
+-   Assess different methods of measuring occupational status and tie them to relevant social theorists' paradigms
+
+-   Design a research project on a topic related to occupations and status
+
+-   Understand the basic tenets of Affect Control Theory and apply them to substantive, original research on occupations
+
+-   Demonstrate how being in differently valued occupations affects individuals' material, social, and emotional outcomes.
+
+-   Interpret evidence for and against current debates in the sociology of work and status
+
+## Course Structure
+
+-   Synthesizing 3 goals:
+
+    -   Occupations & Status literature
+
+    -   Affect Control Theory
+
+    -   Designing & Conducting research
+
+## Course Structure
+
+| Semester Period | Wednesdays                     | Fridays                      |
+|-------------------|------------------------------------|-------------------|
+| First third     | Readings, Lectures, Activities | Affect Control Theory labs   |
+| Second third    | Readings, Lectures, Activities | Research Project Assignments |
+| Final third     | Readings, Lectures, Activities | Peer editing                 |
+
 ## Assessments
 
 -   Participation (15%)
@@ -35,16 +75,6 @@ execute:
 -   Assignments (20%)
 
 -   Final Research Paper (40%)
-
-## Course Structure
-
--   Synthesizing 3 goals:
-
-    -   occupations & status literature
-
-    -   affect control theory
-
-    -   designing & conducting research
 
 ## Final paper
 
