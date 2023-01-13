@@ -12,7 +12,11 @@ execute:
 
 -   Prof Smith-Lovin
 
+    -   will handle grading
+
 -   Em Maloney
+
+    -   will lecture and be primary course instructor
 
 ## Introductions
 
@@ -85,5 +89,35 @@ execute:
 -   Chance to incorporate feedback from instructors and peers
 
 -    Semester constraints
+
+## General Policies
+
+-   Attendance is required **but** please do not come if you are sick!
+
+-   If you know you will need to miss class in advance, please let us know as soon as possible
+
+## General Policies
+
+-   Late work is accepted **but** one letter grade decrease for every 24 hours it is late
+
+    -   up to one day late = A
+
+    -   up to two days late = A-
+
+    -   up to three days late = B+
+
+## General Policies
+
+-   Academic Integrity
+
+    -   please don't cheat
+
+## Life Happens 
+
+-   You are adults, and I want to treat you as such.
+
+-   **And** it is hard once you get behind to catch back up
+
+-   We want you to succeed in this class
 
 ## Questions? 
