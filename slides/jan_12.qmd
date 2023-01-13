@@ -1,0 +1,57 @@
+---
+title: "Sociology 490-S"
+format:
+  revealjs: 
+    theme: default
+editor: visual
+---
+
+## Introductions
+
+-   Name
+
+-   Year
+
+-   Job you would hate to have
+
+-   Job you would love to have
+
+## Activity 
+
+-   <https://emkmaloney.shinyapps.io/occprestige/>
+
+## Syllabus
+
+-   Course website: <https://ekmaloney.github.io/soc490s/>
+
+## Assessments
+
+-   Participation (15%)
+
+-   Labs (15%)
+
+-   Assignments (20%)
+
+-   Final Research Paper (40%)
+
+## Course Structure
+
+-   Synthesizing 3 goals:
+
+    -   occupations & status literature
+
+    -   affect control theory
+
+    -   designing & conducting research
+
+## Final paper
+
+-   Original research on a topic related to occupations and social status (broadly conceived)
+
+-   Assignments lead up to it
+
+-   Chance to incorporate feedback from instructors and peers
+
+-    Semester constraints
+
+## Questions? 

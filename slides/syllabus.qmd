@@ -1,0 +1,320 @@
+---
+title: "Sociology 490-S"
+author: "Occupations and Social Status"
+format: pdf
+editor: visual
+---
+
+| Name                             | Email                                           | Office           | Drop-in Hours                        |
+|-----------------|---------------------|-----------------|-----------------|
+| Prof. Lynn Smith-Lovin (she/her) | [smithlov\@duke.edu](smithlov@duke.edu)         | Reuben-Cooke 339 | schedule by email                    |
+| Em Maloney (they/them)           | [em.k.maloney\@duke.edu](em.k.maloney@duke.edu) | Reuben-Cooke 141 | Thursdays 1-2pm or schedule by email |
+
+### Course Description
+
+This course is a senior research seminar using a sociological lens to explore the relationship between occupations and social status. We will begin by returning to classical sociological theory to understand precisely what status is and what role occupations serve in the context of society and social interaction. Next, we will review the debate surrounding measuring occupational status and how operationalizing it precisely has important consequences for downstream social research. Finally, we will read and evaluate research showing how status is linked to demographic characteristics of occupations, how status 'plays out' on the job, and mechanisms by which occupational status is maintained through institutions.
+
+In exploring these questions, we will privilege one sociological theory: affect control theory, as a way of measuring culture broadly and occupational status in particular. This theory is a formal model of social interaction with tools for running simulations and developing testable hypotheses that will guide your original research throughout the semester. As this is a capstone course, the major portion of your grade for this class will be an original research project on a question related to occupational status that you will complete throughout the course. Throughout the semester, assignments will lead you throughout the research project, allowing you to get feedback from instructors and your peers as you refine your research question and decide on appropriate methods, complete your literature review, conduct your analyses, and finally, write the full draft of the paper.
+
+To serve both of these aims: a thorough understanding of the current landscape of sociological work on occupations and status and the generation of an original research project, this course will generally have a split Wednesday / Friday structure. On Wednesdays, we will follow a typical course format with lectures and class activities linked to readings you will read before class. Fridays will often be more of a lab style. In the first half of the semester, Fridays will be devoted to learning affect control theory and its simulation tools. During this portion, approximately every other week you will be assigned a short lab assignment to help you become familiar with the theory. In the second half, Fridays will be for working through the assignments that are linked to your final research paper and getting feedback on your work.
+
+### Course Objectives
+
+By the end of this course, you will be able to:
+
+-   Assess different methods of measuring occupational status and tie them to relevant social theorists' paradigms
+
+-   Design a research project on a topic related to occupations and status
+
+-   Understand the basic tenets of Affect Control Theory and apply them to substantive, original research on occupations
+
+-   Demonstrate how being in differently valued occupations affects individuals' material, social, and emotional outcomes.
+
+-   Interpret evidence for and against current debates in the sociology of work and status, including the gender devaluation hypothesis.
+
+### Course Grading
+
+1.  Class participation (15%)
+
+2.  Labs (15%)
+
+    1.  There are 3 labs, each equal to 5% of your grade
+
+3.  Assignments (20%)
+
+    1.  Research Question (5%)
+
+    2.  Annotated Bibliography (5%)
+
+    3.  Literature Review (5%)
+
+    4.  Methods Plan (5%)
+
+4.  Final Research Paper (40%)
+
+### Attendance Policy 
+
+Attendance in this class is mandatory (conditional on you being well enough to attend - please do not come to class if you are sick!). Unexcused absences will decrease your participation grade in the course.
+
+### Technology
+
+We will be doing online activities and labs throughout the class; please bring your laptops or tablets to class days, especially Fridays. The course website can be found here: <https://ekmaloney.github.io/soc490s/> and is where you can find all course materials, including readings, labs, and assignments.
+
+### Course communication
+
+If you have any questions about the course material, lectures, or missing class, please email Em at [em.k.maloney\@duke.edu](em.k.maloney@duke.edu). If you have any questions about grading, please email Professor Smith-Lovin at [smithlov\@duke.edu](smithlov@duke.edu)
+
+### Student Success
+
+If you are having trouble completing assignments or understanding the materials, please consult with us about appropriate course preparation and readiness strategies as needed. We may also direct you to other resources on campus.
+
+-   The [Academic Resource Center (ARC)](https://arc.duke.edu) offers free services to all students, including peer tutoring, learning consultations, ADHD/LD coaching and help with online learning.
+
+-   If you are concerned about your physical or mental health, [DukeReach](https://students.duke.edu/wellness/dukereach/) can connect you with departments across campus to get you help, and you can contact [Counseling & Psychological Services (CAPS)](https://students.duke.edu/wellness/caps/) directly for counseling services. You can also reach 24/7 mental health support through [Blue Devils Care](https://bluedevilscare.duke.edu).
+
+### Academic Accommodations
+
+If you need to request accommodation for a disability, you should contact the [Disability Management System (DMS)](https://access.duke.edu/requests) office. We will work with that office to provide you with equal access to course materials and make accommodations.
+
+### Academic Integrity
+
+As a student, you should abide by Duke's Community Standard, which states: Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity. To uphold the Duke Community Standard:
+
+-   I will not lie, cheat, or steal in my academic endeavors.
+
+-   I will conduct myself honorably in all my endeavors; and
+
+-   I will act if the Standard is compromised.
+
+It is the responsibility of the student to understand and follow Duke policies regarding academic integrity, including doing one's own work, following proper citations of sources, and adhering to guidance around group work. Please speak with me to get any clarification about this course.
+
+### Schedule[^1]
+
+[^1]: subject to change - use the website for up-to-date readings!
+
+#### January 13 - Introduction to class
+
+**Prepare:** introduction survey
+
+#### January 18 - What is status?
+
+**Prepare:**
+
+-   Marx, Wage Labor and Capital
+
+-   Weber, The Distribution of Power within the Political Community: Class, Status, Party
+
+#### January 20 - How do we understand jobs/occupations sociologically?
+
+**Prepare:**
+
+-   Durkheim, The Division of Labor in Society
+
+-   Hughes, Social Role and the Division of Labor
+
+#### January 25 - Why is measuring occupational status precisely important?
+
+**Prepare:**
+
+-   Haug, Measurement in Social Stratification
+
+#### January 27 - Introduction to Affect Control Theory
+
+**Prepare:**
+
+-   Heise, Expressive Order, chs. 1-5
+
+**Assign:**
+
+-   Lab 1 - introduction to interact.jar and occupations dictionary
+
+#### February 1: Historical Approaches to measuring occupational status
+
+**Prepare:**
+
+-   Connelly et al, A Review of occupation-based social classifications for social survey research
+
+#### February 3: Affect Control Theory: Transient Impressions
+
+**Prepare:**
+
+-   Heise, Expressive Order, chs 6-7
+
+#### February 8: Measuring occupational status, the cultural turn
+
+**Prepare:**
+
+-   Freeland and Hoey, The Structure of Deference
+
+#### February 10: Affect Control Theory: Deflection
+
+**Prepare:**
+
+-   Boyle and McKinzie, Resolving Negative Affect and Restoring Meaning: Responses to Deflection Produced by Unwanted Sexual Experiences
+
+**Assign:**
+
+-   Lab 2 - understanding deflection and simulating events in interact
+
+**Due:**
+
+-   Lab 1
+
+#### February 15: Are occupational status beliefs the same across everyone?
+
+**Prepare:**
+
+-   Lynn and Ellerbach, A Position with a View: Educational Status and the Construction of the Occupational Hierarchy
+
+#### February 17: Affect Control Theory: Emotions, Optimal Behavior, Relabeling
+
+**Prepare:**
+
+-   Maloney, The Influence of Occupational Identity on Emotional Experience
+
+-   Heise, Expressive Order, chs. 8-9
+
+**Assign:**
+
+-   Lab 3 - structural simulations
+
+**Due:**
+
+-   Lab 2
+
+#### February 22: Gender composition and occupational status
+
+**Prepare:**
+
+-   Valentino, The Segregation Premium: How Gender Shapes the Symbolic Valuation Process of Occupational Prestige Judgments
+
+#### February 24: Research Questions
+
+**Prepare:**
+
+-   Booth et al, The Craft of Research, chapters 3 and 4
+
+**Assign:**
+
+-   Research Question Assignment
+
+**Due:**
+
+-   Lab 3
+
+#### March 1: Intra-occupation status differences
+
+**Prepare:**
+
+-   Wingfield, RACIALIZING THE GLASS ESCALATOR: Reconsidering Men's Experiences with Women's Work
+
+#### March 3: How to conduct a literature review
+
+**Assign**
+
+-   Annotated Bibliography
+
+**Due:**
+
+-   Research Question Assignment
+
+#### March 8: Customer interactions
+
+**Prepare:**
+
+-   Storer, Serving Like an Organization: How Foodservice and Retail Workers Interpret Their Interactions With Customers
+
+#### March 10: Methods
+
+**Prepare (methods sections of at least 2 of the following):**
+
+-   Francis and Alinor, Bereavement Adaptation as Deflection Reduction: Bereaved Caregivers Define the Event of Dying
+
+-   Soboroff and Kelley, Modeling Status Interventions with Affect Control Theory
+
+-   Bergstrand and Jasper, Villains, Victims, and Heroes in Character Theory and Affect Control Theory
+
+-   Robinson, Identity and Friendship: Affective Dynamics and Network Formation
+
+**Assign**
+
+-   Methods Plan
+
+**Due:**
+
+-   Annotated Bibliography
+
+#### March 15: Spring Break!
+
+#### March 17: Spring Break!
+
+#### March 22: Peer Edit Methods Plans
+
+**Due:**
+
+-   Methods Plans
+
+#### March 24: Mechanisms of Maintenance - Self/Identity
+
+**Prepare:**
+
+-   Cech, The Self-Expressive Edge of Occupational Sex Segregation
+
+**Assign:**
+
+-   Literature Review
+
+#### March 29: Mechanisms of Maintenance - Culture
+
+**Prepare:**
+
+-   Rivera, Hiring as Cultural Matching
+
+#### March 31: Mechanisms of Maintenance - Precarity
+
+**Prepare:**
+
+-   Umney and Krestos, That's the Experience": Passion, Work Precarity, and Life Transitions Among London Jazz Musicians
+
+**Assign:**
+
+-   Methods/Results Sections
+
+**Due:**
+
+-   Literature Review
+
+#### April 5: How do some occupations become professions?
+
+**Prepare:**
+
+-   Liu, The Legal Profession as a Social Process: A Theory on Lawyers and Globalization
+
+#### April 7: How does economic inequality in occupations emerge?
+
+**Prepare:**
+
+-   Weeden, Why do Some Occupations Pay More than Others? Social Closure and Earnings Inequality in the United States
+
+#### April 12: The double-bind of vocations
+
+**Prepare:**
+
+-   Bunderson and Thompson, The Call of the Wild: Zookeepers, Callings, and the Double-Edge Sword of Deeply Meaningful Work
+
+#### April 14: Algorithms
+
+**Prepare:**
+
+-   Shestakofsky, Working Algorithms: Software Automation and the Future of\
+    Work
+
+#### April 19: Work Day
+
+#### April 21: Peer Edit
+
+**Due:**
+
+-   Full Draft of your final paper
+
+#### May 5 - Final Papers Due at Noon
