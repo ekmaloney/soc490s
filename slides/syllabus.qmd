@@ -52,9 +52,31 @@ By the end of this course, you will be able to:
 
 4.  Final Research Paper (40%)
 
+#### Grading Scale
+
+| Letter | Range  |
+|--------|--------|
+| A+     | 100-96 |
+| A      | 95-93  |
+| A-     | 90-92  |
+| B+     | 87-89  |
+| B      | 83-86  |
+| B-     | 80-82  |
+| C+     | 77-79  |
+| C      | 73-76  |
+| C-     | 70-72  |
+| D+     | 67-69  |
+| D      | 63-66  |
+| D-     | 60-62  |
+| Fail   | 0-59   |
+
 ### Attendance Policy 
 
 Attendance in this class is mandatory (conditional on you being well enough to attend - please do not come to class if you are sick!). Unexcused absences will decrease your participation grade in the course.
+
+### Late Policy 
+
+For every 24 hours a lab or assignment is late, the highest grade you can receive will go down a letter grade (e.g. One day late, the highest you can get is an A, two days A-, three days B+).
 
 ### Technology
 
