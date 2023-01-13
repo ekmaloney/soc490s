@@ -4,6 +4,8 @@ format:
   revealjs: 
     theme: default
 editor: visual
+execute:
+  freeze: auto
 ---
 
 ## Introductions
