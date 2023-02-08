@@ -3,7 +3,7 @@ title: "Sociology 490S - Occupations and Status"
 ---
 
 | Name                             | Email                                           | Office           | Drop-in Hours                        |
-|----------------|------------------------|----------------|-----------------|
+|----------------------------------|-------------------------------------------------|------------------|--------------------------------------|
 | Prof. Lynn Smith-Lovin (she/her) | [smithlov\@duke.edu](smithlov@duke.edu)         | Reuben-Cooke 339 | schedule by email                    |
 | Em Maloney (they/them)           | [em.k.maloney\@duke.edu](em.k.maloney@duke.edu) | Reuben-Cooke 141 | Thursdays 1-2pm or schedule by email |
 
@@ -49,7 +49,7 @@ By the end of this course, you will be able to:
 
 4.  Final Research Paper (40%)
 
-### Attendance Policy 
+### Attendance Policy
 
 Attendance in this class is mandatory (conditional on you being well enough to attend - please do not come to class if you are sick!). Unexcused absences will decrease your participation grade in the course.
 

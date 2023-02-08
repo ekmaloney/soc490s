@@ -28,7 +28,7 @@ execute:
 
 -   Job you would love to have
 
-## Activity 
+## Activity
 
 -   <https://emkmaloney.shinyapps.io/occprestige/>
 
@@ -65,7 +65,7 @@ execute:
 ## Course Structure
 
 | Semester Period | Wednesdays                     | Fridays                      |
-|-------------------|------------------------------------|-------------------|
+|-----------------|--------------------------------|------------------------------|
 | First third     | Readings, Lectures, Activities | Affect Control Theory labs   |
 | Second third    | Readings, Lectures, Activities | Research Project Assignments |
 | Final third     | Readings, Lectures, Activities | Peer editing                 |
@@ -88,7 +88,7 @@ execute:
 
 -   Chance to incorporate feedback from instructors and peers
 
--    Semester constraints
+-   Semester constraints
 
 ## General Policies
 
@@ -112,7 +112,7 @@ execute:
 
     -   please don't cheat
 
-## Life Happens 
+## Life Happens
 
 -   You are adults, and I want to treat you as such.
 
@@ -120,4 +120,4 @@ execute:
 
 -   We want you to succeed in this class
 
-## Questions? 
+## Questions?
