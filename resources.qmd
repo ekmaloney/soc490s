@@ -1,0 +1,28 @@
+---
+title: "Class Resources"
+editor: visual
+---
+
+ACT Resources:
+
+-   Download interact from here: [link](https://affectcontroltheory.org/resources-for-researchers/tools-and-software/interact/)
+
+-   actdata R package: [ahcombs/actdata](https://github.com/ahcombs/actdata)
+
+-   inteRact R package: [ekmaloney/inteRact](https://github.com/ekmaloney/inteRact)
+
+Research Project Resources:
+
+-   Google document for class annotated bibliography: [link](https://docs.google.com/document/d/17zDg9zBFoUX9DIuO8OkbXfYuRhQD65QASnGmhkiO5bw/edit?usp=sharing)
+
+-   Annotated Bibliography:
+
+    -   Duke Library\'s Social Science resources: 
+
+        -   <https://guides.library.duke.edu/sociology> 
+
+        -   <https://guides.library.duke.edu/c.php?g=613305&p=4261020> 
+
+    -   Annual Review of Sociology journal: <https://www.annualreviews.org/journal/soc> 
+
+    -   University of Washington annotated bibliography guide: <https://guides.lib.uw.edu/research/iss/bibliography>

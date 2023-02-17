@@ -11,5 +11,8 @@
   "slides/syllabus.qmd": {
     "syllabus.tex": "81ce6c57",
     "syllabus.html": "227e1901"
+  },
+  "resources.qmd": {
+    "resources.html": "9d9577c6"
   }
 }
