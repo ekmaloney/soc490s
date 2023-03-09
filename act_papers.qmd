@@ -1,0 +1,33 @@
+---
+title: "ACT Resources"
+editor: visual
+bibliography: references.bib
+---
+
+Dictionary search application:
+
+<https://emkmaloney.shinyapps.io/dictionary_search/>
+
+Mental Health
+
+[@boyle2023; @jacobs2022; @kroska2006; @kroska2011]
+
+Emotions
+
+[@doan2012a; @langford2000; @lively2006; @lively2010; @lively2014; @maloney2023]
+
+Gender & Race
+
+[@kroska2019; @langford2000a; @wingfield2018]
+
+Culture: subcultures and/or cultural change
+
+[@quinn2023; @boyle2016a; @bergstrand2019a; @mackinnon2002]
+
+Defining interactions
+
+[@boyle2015a; @francis1997; @kelly2023]
+
+Inequality in cultural meanings
+
+[@rogers2019; @rogers2013]

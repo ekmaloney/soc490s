@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - resources.qmd
+      - act_papers.qmd
 
 format:
   html:

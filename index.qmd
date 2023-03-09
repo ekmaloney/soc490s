@@ -2,10 +2,15 @@
 title: "Sociology 490S - Occupations and Status"
 ---
 
-| Name                             | Email                                           | Office           | Drop-in Hours                        |
-|----------------------------------|-------------------------------------------------|------------------|--------------------------------------|
-| Prof. Lynn Smith-Lovin (she/her) | [smithlov\@duke.edu](smithlov@duke.edu)         | Reuben-Cooke 339 | schedule by email                    |
-| Em Maloney (they/them)           | [em.k.maloney\@duke.edu](em.k.maloney@duke.edu) | Reuben-Cooke 141 | Thursdays 1-2pm or schedule by email |
++----------------------------------+-------------------------------------------------+------------------+------------------------------------------------------------+
+| Name                             | Email                                           | Office           | Drop-in Hours                                              |
++==================================+=================================================+==================+============================================================+
+| Prof. Lynn Smith-Lovin (she/her) | [smithlov\@duke.edu](smithlov@duke.edu)         | Reuben-Cooke 339 | schedule by email                                          |
++----------------------------------+-------------------------------------------------+------------------+------------------------------------------------------------+
+| Em Maloney (they/them)           | [em.k.maloney\@duke.edu](em.k.maloney@duke.edu) | Reuben-Cooke 141 | Thursdays 1-2pm or schedule by email                       |
+|                                  |                                                 |                  |                                                            |
+|                                  |                                                 |                  | zoom link if on zoom: <https://duke.zoom.us/j/92182624941> |
++----------------------------------+-------------------------------------------------+------------------+------------------------------------------------------------+
 
 ### Course Description
 
